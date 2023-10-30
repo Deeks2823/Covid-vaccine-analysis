@@ -16,3 +16,4 @@ By this, vaccine manufacturing companies get to know the prior requirements of v
 ### Daily vaccination trend per million
 ![Screenshot 2023-10-30 102045](https://github.com/Deeks2823/Covid-vaccine-analysis/assets/140941979/0665920f-f4da-4cc9-a8d8-52d683af1dba)
 ### Total vaccinated IND vs USA
+![Screenshot 2023-10-30 102059](https://github.com/Deeks2823/Covid-vaccine-analysis/assets/140941979/9e4969d5-3d1d-4d6d-80ac-fcbfb999f312)
