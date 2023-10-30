@@ -3,8 +3,8 @@
 Forecasting of time taken for completing 100% total vaccinations of particular region over the time period.
 By this, vaccine manufacturing companies get to know the prior requirements of vaccine which helps to produce the vaccines in large scale and complete the vaccination drive with in calculated time.
 ## Contributers
-Siva deekshitha
-Arkitta naaidu
+
+https://github.com/settings/profile
 Chaturvedasree
 Sravani
 Priyadarshini
@@ -20,3 +20,4 @@ Priyadarshini
 ### Total vaccinations per hundred
 ![Screenshot 2023-10-30 103905](https://github.com/Deeks2823/Covid-vaccine-analysis/assets/140941979/3f66da90-d61a-47c7-b656-5d78c3c44fa9)
 ### New vaccination rate
+![Screenshot 2023-10-30 104555](https://github.com/Deeks2823/Covid-vaccine-analysis/assets/140941979/01b2db93-f945-46f7-8bb5-866c8da8523b)
